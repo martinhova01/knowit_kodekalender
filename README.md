@@ -1,2 +1,2 @@
 # knowit_kodekalender
-Min løsning for kode-julekalender til Knowit
+Min løsning for kode-julekalenderen til Knowit
