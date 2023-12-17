@@ -11,7 +11,6 @@ class Solution():
         self.filename = "input.txt"
         self.parse()
         
-        
     def solve(self):
         fig, ax = plt.subplots()
         for i in tqdm(range(len(self.lights))):
@@ -22,8 +21,6 @@ class Solution():
                 circle = patches.Circle((x, y), r, edgecolor='g', facecolor='g', alpha=intensity)
                 ax.add_patch(circle)
 
-                
-        
         ax.set_xlim(0, 2000)
         ax.set_ylim(0, 2000)
         plt.show()
@@ -36,8 +33,6 @@ class Solution():
         while abs(approximate - target) > tol:
             end += 1
             x = np.linspace(0, end, num=100)
-            # polynomial = a*x**2 + b*x + c
-            # integrand = np.sqrt(1 + np.gradient(polynomial)**2)
             integrand = np.sqrt(1 + 4*(a**2)*(x**2) + 4*a*b*x + b**2)
             approximate = np.trapz(integrand, x)
         return end
