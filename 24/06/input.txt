@@ -1,0 +1,4 @@
+AC <-> IB
+BD <-> EG
+GF <-> DE
+BA <-> BB
