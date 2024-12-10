@@ -12,3 +12,6 @@ def adjacent4(x: int, y: int) -> list:
 
 def adjacent8(x: int, y: int) -> list:
     return [(x + dx, y + dy) for dx, dy in directions8()]
+
+def rot90(x, y, clock_wise = True) -> tuple[int, int]:
+    return (-y, x) if clock_wise else (y, -x)
