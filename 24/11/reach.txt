@@ -1,0 +1,11 @@
+Venstre          Høyre
+       xxx           xxx
+     xxxxxxx       xxxxxxx
+    xxxxxxxxx     xxxxxxxxx
+   xxxxxxxxxxx   xxxxxxxxxxx
+  xxxxxxxxxxxx   xxxxxxxxxxxx
+ xxxxxxxxxxxxx   xxxxxxxxxxxxx
+ xxxxxxxxxxxxx   xxxxxxxxxxxxx
+xxxxxxxxxxxxx     xxxxxxxxxxxxx
+xxxxxxxxxxxx       xxxxxxxxxxxx
+         o           o
