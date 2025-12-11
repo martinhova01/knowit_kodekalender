@@ -1,0 +1,5 @@
+20
+dukke,5,30
+lego,10,50
+sokker,8,40
+klementin,4,10
