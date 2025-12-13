@@ -1,0 +1,10 @@
+T=12
+Start:2
+Mix:3
+AddSugar:2
+Bake:5
+Decorate:3
+---
+Pepperkake 10 Start Mix Bake Decorate
+Sjokoladekake 12 Start Mix Bake
+Havrekjeks 7 Start Mix Bake
